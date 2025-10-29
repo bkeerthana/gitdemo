@@ -1,0 +1,14 @@
+#comment line 
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore directories
+build/
+node_modules/
+
+# Ignore specific file
+secrets.env
